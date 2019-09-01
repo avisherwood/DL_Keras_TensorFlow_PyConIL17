@@ -1,6 +1,6 @@
 <div>
     <h1 style="text-align: center;">DL with Keras and TensorFlow at PyCon Israel 2017</h1>
-    <img style="text-align: left" src="http://il.pycon.org/wwwpyconIL/themes/custom/eldan/images/logo_pyconil.png" width="10%" />
+    <img style="text-align: left" src="http://il.pycon.org/wwwpyconIL/themes/custom/eldan/images/logo_pyconil.png" width="100%" />
     <img style="text-align: left" src="https://www.luisllamas.es/wp-content/uploads/2019/02/tensorflowkeras.png  " width="50%" />
 <div>
 <br>
