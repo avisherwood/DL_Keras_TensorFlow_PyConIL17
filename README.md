@@ -1,6 +1,6 @@
 <div>
     <h1 style="text-align: center;">DL with Keras and TensorFlow at PyCon Israel 2017</h1>
-    <img style="text-align: left" src="https://www.luisllamas.es/wp-content/uploads/2019/02/tensorflowkeras.png" width="30%" />
+    <img style="text-align: left" src="https://www.luisllamas.es/wp-content/uploads/2019/02/tensorflowkeras.png" width="40%" />
     <img style="text-align: left" src="https://d2z6c3c3r6k4bx.cloudfront.net/uploads/event/banner/1013635/c3312d678c0713e09a4819651455b9cd.jpg" width="60%" />
 <div>
 <br>
@@ -308,4 +308,4 @@ print('Tensorflow: ', tf.__version__)
 
 
 <br>
-<h1 style="text-align: center;">If everything worked till down here, you're ready to start!</h1>
+<h1 style="text-align: center;">If you've done exactly everything written here, so then everything should work well and you're ready to start. Good Luck!</h1>
